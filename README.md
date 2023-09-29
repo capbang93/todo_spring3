@@ -13,7 +13,7 @@ com.example.todo.model
 
 com.example.todo.security
 
--JwtAuthenticationFilter.java
+- JwtAuthenticationFilter.java
 
 build.gradle
 
